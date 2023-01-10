@@ -189,8 +189,8 @@ Example:
 👤 **Lengushuru Charles**
 
 - GitHub: [@githubhandle](https://github.com/lengushuru)
-- Twitter: [@twitterhandle](https://twitter.com/lengush)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lengushuru)
+- Twitter: [@twitterhandle](https://twitter.com/ngushuru)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/lengushuru-charles-a09371111/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
